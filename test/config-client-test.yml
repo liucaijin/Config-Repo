@@ -1,0 +1,5 @@
+spring:
+  profiles: test
+
+cloud:
+  version: Camden SR4 for test
